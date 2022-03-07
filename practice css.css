@@ -1,0 +1,22 @@
+.pic {
+    flex-direction:row;
+    justify-content: space-around;
+    display: flex;
+}
+.a {
+    flex-direction: column;
+    display:flex ;
+    align-items:flex-start;
+}
+.b{
+    margin-left: 20%;
+}
+.c{
+    margin-left: 20%;
+}
+.d{
+    margin-left: 20%;
+}
+.e{
+    margin-left: 20%;
+}
